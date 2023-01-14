@@ -1,0 +1,11 @@
+[requires]
+
+[options]
+
+[generators]
+cmake
+
+[libs]
+mathlib2/0.1@zaid/math2
+    cpp_files=src/*.cpp
+    hpp_files=include/*.h

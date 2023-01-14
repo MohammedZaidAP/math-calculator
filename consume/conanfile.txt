@@ -1,0 +1,8 @@
+[requires]
+mathlib2/0.1@zaid/math2
+
+[options]
+
+[generators]
+cmake
+

@@ -1,0 +1,33 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=15
+    os=Windows
+
+[requires]
+    mathlib2/0.1
+
+[options]
+
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MD
+    compiler.version=15
+    os=Windows
+
+[full_requires]
+    mathlib2/0.1@zaid/math2:6cc50b139b9c3d27b3e9042d5f5372d327b3a9f7
+
+[full_options]
+    mathlib2:shared=False
+
+[recipe_hash]
+
+
+[env]
+

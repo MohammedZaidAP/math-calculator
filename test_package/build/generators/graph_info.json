@@ -1,0 +1,14 @@
+{
+ "options": [
+  [
+   "mathlib2:shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": null,
+  "version": null,
+  "user": "zaid",
+  "channel": "math2"
+ }
+}
